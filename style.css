@@ -381,7 +381,7 @@ h3{
     box-shadow: 1px 8px 10px 2px var(--first-shadow-color);
     overflow: hidden;
     padding: 5px;
-    /*overflow: auto;*/
+    overflow: hidden;
     
 }
 .project-box>i{
